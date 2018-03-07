@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: scotch3m
-  host: scotch3m
+  name: paste the name of your app here
+  host: paste the url of your app here
   disk_quota: 1024M
