@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: paste the name of your app here
-  host: paste the url of your app here
+  host: paste the name of your app here
   disk_quota: 1024M
